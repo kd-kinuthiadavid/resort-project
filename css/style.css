@@ -1,0 +1,27 @@
+body{
+  background-color: gray;
+  text-align: center;
+  font-family: serif;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 16px;
+}
+h1{
+  color: red;
+  }
+  #accomodation{
+    background-color: #5D585F;
+  }
+  #activities{
+    background-color: #A7AFC3;
+  }
+  #arrangements{
+      background-color: #0E204D;
+  }
+#travel{
+  background-color: #0A3D30;
+}
+#contact-information
+{
+  background-color: #A1BC97;
+}
